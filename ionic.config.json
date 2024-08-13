@@ -1,0 +1,7 @@
+{
+  "name": "panidopao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
